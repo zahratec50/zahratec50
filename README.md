@@ -16,11 +16,11 @@
 <a href="https://www.linkedin.com/in/zahra-taheri-55a18913b/"><img width="60px" height="60px" src="https://github.com/zahratec50/zahratec50/blob/main/icons8-linkedin-96.png?raw=true"/></a>
 <a href="https://zahratec50@gmail.com"><img width="60px" height="60px" src="https://github.com/zahratec50/zahratec50/blob/main/icons8-email-96.png?raw=true" /></a>
 <br/>
-<h2>What am I doing now?</h2>
+<h2>What am I doing now?💪</h2>
 <h3>✨ I'm learning Git & Github & Gitlab</h3>
 <h3>✨ Creating a project with React</h3>
 <br/>
-<h2>I'm working with these now</h2>
+<h2>I'm working with these now👩🏻‍💻</h2>
 <h3>💻Tailwind css 90% </h3>
 <img src="https://github.com/zahratec50/zahratec50/blob/main/bar.png?raw=true" width="450px" height="50px" />
 <br/>
