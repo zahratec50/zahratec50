@@ -1,6 +1,6 @@
 
-<h2>Hi There! I'm Zahra Taheri👋</h2>
-<h3>👩🏻‍💻 &nbsp; About Me</h3>
+<h1>Hi There! I'm Zahra Taheri👋</h1>
+<h2>👩🏻‍💻 &nbsp; About Me</h2>
 <p>
   I'm a Front-End programmer and have been learning it for 9 months. I'm very happy that I chose this path and I want to grow even more and reach a higher level😊
 </p>
