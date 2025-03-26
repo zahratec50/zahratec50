@@ -14,9 +14,7 @@
 
 <h2>🛠️ &nbsp; Tech Stack</h2>
 <ul>
-  <li>
-    💻 &nbsp; <img src="https://img.shields.io/badge/python-333333?logo=python" /> 
-  </li>
+  
   <li>
     🌐 &nbsp; 
     <img src="https://img.shields.io/badge/HTML5-333333?logo=html5" /> 
