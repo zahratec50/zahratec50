@@ -6,7 +6,7 @@
 </p>
 <ul>
   <li>🎓 &nbsp; BA in Medical Engineering</li>
-  <li>✒️ &nbsp; Learning Git & Github</li>
+  <li>✒️ &nbsp; Learning Next.js</li>
   <li>💻 &nbsp; Creating a New Project With React</li>
   <li>🌟 &nbsp; Coding and Learning Are My Hobby</li>
 </ul>
