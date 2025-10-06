@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/javascript-333333?logo=javascript" />
     <img src="https://img.shields.io/badge/Typescript-333333?logo=typescript" />
     <img src="https://img.shields.io/badge/React-333333?logo=react" /> 
-    <img src="https://img.shields.io/badge/Nextjs-333333?logo=nextjs" /> 
+    <img src="https://img.shields.io/badge/Next-333333?logo=next" /> 
   </li>
   <li>
     ⚙️ &nbsp; 
