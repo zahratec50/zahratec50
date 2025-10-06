@@ -20,8 +20,10 @@
     <img src="https://img.shields.io/badge/HTML5-333333?logo=html5" /> 
     <img src="https://img.shields.io/badge/CSS3-333333?logo=css3" /> 
     <img src="https://img.shields.io/badge/tailwindcss-333333?logo=tailwindcss" /> 
-    <img src="https://img.shields.io/badge/javascript-333333?logo=javascript" /> 
+    <img src="https://img.shields.io/badge/javascript-333333?logo=javascript" />
+    <img src="https://img.shields.io/badge/Typescript-333333?logo=typescript" />
     <img src="https://img.shields.io/badge/React-333333?logo=react" /> 
+    <img src="https://img.shields.io/badge/Nextjs-333333?logo=nextjs" /> 
   </li>
   <li>
     ⚙️ &nbsp; 
