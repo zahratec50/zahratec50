@@ -2,7 +2,7 @@
 <h1>Hi There! I'm Zahra Taheri👋</h1>
 <h2>👩🏻‍💻 &nbsp; About Me</h2>
 <p>
-  I'm a Front-End programmer and have been learning it for 9 months. I'm very happy that I chose this path and I want to grow even more and reach a higher level😊
+  I'm a Front-End programmer and have been learning it for  1 year and 10 months. I'm very happy that I chose this path and I want to grow even more and reach a higher level😊
 </p>
 <ul>
   <li>🎓 &nbsp; BA in Medical Engineering</li>
