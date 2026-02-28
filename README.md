@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/Typescript-333333?logo=typescript" />
     <img src="https://img.shields.io/badge/React-333333?logo=react" /> 
     <img src="https://img.shields.io/badge/Next.js-333333?logo=next.js" /> 
+    <img src="https://img.shields.io/badge/Shadcn-333333?logo=shadcn" /> 
   </li>
   <li>
     ⚙️ &nbsp; 
